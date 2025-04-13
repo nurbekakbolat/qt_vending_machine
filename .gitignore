@@ -1,0 +1,13 @@
+# Qt build stuff
+build/
+*.pro.user
+*.qmake.stash
+Makefile*
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.autosave
+
+.vscode/
